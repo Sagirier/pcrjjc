@@ -1,0 +1,112 @@
+{
+    "arena_bind": {
+        "405304069": {
+            "id": "1334354253258",
+            "uid": "405304069",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 54,
+            "origin_grand_arena_rank": 13,
+            "arena_rank": 54,
+            "grand_arena_rank": 13,
+            "query_statu": true
+        },
+        "463576102": {
+            "id": "1170869445197",
+            "uid": "463576102",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 78,
+            "origin_grand_arena_rank": 126,
+            "arena_rank": 78,
+            "grand_arena_rank": 126,
+            "query_statu": true
+        },
+        "965845687": {
+            "id": "1230585873924",
+            "uid": "965845687",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 8,
+            "origin_grand_arena_rank": 16,
+            "arena_rank": 8,
+            "grand_arena_rank": 16,
+            "query_statu": true
+        },
+        "799759844": {
+            "id": "1362464427598",
+            "uid": "799759844",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 9,
+            "origin_grand_arena_rank": 5,
+            "arena_rank": 9,
+            "grand_arena_rank": 5,
+            "query_statu": true
+        },
+        "775267258": {
+            "id": "1137990853108",
+            "uid": "775267258",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 54,
+            "origin_grand_arena_rank": 219,
+            "arena_rank": 54,
+            "grand_arena_rank": 219,
+            "query_statu": true
+        },
+        "854335680": {
+            "id": "1114813662752",
+            "uid": "854335680",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 21,
+            "origin_grand_arena_rank": 12,
+            "arena_rank": 21,
+            "grand_arena_rank": 12,
+            "query_statu": true
+        },
+        "782882040": {
+            "id": "1385651857908",
+            "uid": "782882040",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 255,
+            "origin_grand_arena_rank": 164,
+            "arena_rank": 221,
+            "grand_arena_rank": 164,
+            "query_statu": true
+        },
+        "821282633": {
+            "id": "1422507205194",
+            "uid": "821282633",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 839,
+            "origin_grand_arena_rank": 839,
+            "arena_rank": 839,
+            "grand_arena_rank": 839,
+            "query_statu": true
+        },
+        "978203573": {
+            "id": "1310503825927",
+            "uid": "978203573",
+            "gid": "1031074775",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "origin_arena_rank": 4,
+            "origin_grand_arena_rank": 7,
+            "arena_rank": 4,
+            "grand_arena_rank": 7,
+            "query_statu": true
+        }
+    }
+}
